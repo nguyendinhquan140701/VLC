@@ -1,0 +1,13 @@
+/build
+*.iml
+.idea/
+misc.xml
+.gradle/
+# Local configuration file (sdk path, etc)
+local.properties
+deploymentTargetDropDown.xml
+render.experimental.xml
+# Keystore files
+*.jks
+*.keystore
+*.log

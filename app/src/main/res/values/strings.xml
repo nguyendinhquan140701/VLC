@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Auto-Capture</string>
+
+    <string name="ledid_message_setup_camera">This app use camera to detect id on led</string>
+    <string name="ledid_title_setup_camera">\"%1s\" Would Like to Access the Camera</string>
+    <string name="settings_title">OK</string>
+    <string name="btn_cancel">Don\'t Allow</string>
+    <string name="txt_version">Version %1s</string>
+    <string name="error_camera">Bạn chưa cấp quyền sử dụng camera.\nVui lòng vào cài đặt để cấp thêm quyền.</string>
+    <string name="text_code">Code1: %1$s</string>
+    <string name="text_time">Time/Frame: %1$s\s</string>
+    <string name="text_code2">Code2: %1$s</string>
+    <string name="txt_waiting">Waiting…</string>
+    <string name="txt_loading">Loading…</string>
+    <string name="txt_fps">FPS: %1$s</string>
+
+
+</resources>
